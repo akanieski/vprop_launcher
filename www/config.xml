@@ -50,4 +50,13 @@
     <access origin="http://127.0.0.1*" />
     <access origin="http://*.virtualproperti.es"/>
     <access origin="http://portal.virtualproperti.es"/>
+    <access origin="http://netdna.bootstrapcdn.com"/>
+    <access origin="https://vaccineregistry.com"/>
+    <access origin="https://html5shim.googlecode.com"/>
+    <access origin="https://maps.googleapis.com"/>
+    <access origin="https://www.google.com"/>
+    <access origin="https://ajax.googleapis.com"/>
+
+
+
 </widget>
